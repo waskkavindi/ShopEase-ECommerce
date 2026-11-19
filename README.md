@@ -284,3 +284,19 @@ Main database tables:
 
 Core e-commerce functionality implemented and tested locally. Further improvements are planned.
 
+## Application Screenshots
+
+### Home Page
+![ShopEase Home Page](screenshots/home-page.png)
+
+### Products Page
+![ShopEase Products Page](screenshots/products-page.png)
+
+### Shopping Cart
+![ShopEase Shopping Cart](screenshots/cart-page.png)
+
+### Checkout Page
+![ShopEase Checkout Page](screenshots/checkout-page.png)
+
+### Order Success Page
+![ShopEase Order Success](screenshots/order-success.png)
